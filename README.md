@@ -93,11 +93,11 @@ python draw_predict.py
 
 ### Output 1
 
-![Output 1](OUTPUT SS/output1.png)
+![Output 1](Output/output1.png)
 
 ### Output 2
 
-![Output 2](OUTPUT SS/output2.png)
+![Output 2](Output/output2.png)
 
 ---
 
