@@ -88,6 +88,20 @@ python draw_predict.py
 
 ---
 
+
+## 📁 Screenshots
+
+### Output 1
+
+![Output 1](OUTPUT SS/output1.png)
+
+### Output 2
+
+![Output 2](OUTPUT SS/output2.png)
+
+---
+
+
 ### Dataset
 
 This system is trained and evaluated on the [MNIST Handwritten Digit Dataset](http://yann.lecun.com/exdb/mnist/), a benchmark dataset widely used for image classification research.
